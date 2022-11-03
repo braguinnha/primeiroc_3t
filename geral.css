@@ -1,13 +1,13 @@
-# spTotal {
-    fundo :  rgb ( 27 ,  27 ,  27 );
-    cor : branco;
-    raio da borda :  10 px ;
-    preenchimento :  5px ; _
-    font-family :  'Courier New' , Courier , monospace;
+#spTotal{
+    background: rgb(27, 27, 27);
+    color: white;
+    border-radius: 10px;
+    padding: 5px;
+    font-family: 'Courier New', Courier, monospace;
 }
-. splista {
-    fundo : azul;
-    raio da borda :  10 px ;
-    font-family :  'Lucida Sans' ,  'Lucida Sans Regular' ,  'Lucida Grande' ,  'Lucida Sans Unicode' , Geneva , Verdana , sans-serif;
-    largura :  200px ; _
+.splista{
+    background: blue;
+    border-radius: 10px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 200px;
 }
